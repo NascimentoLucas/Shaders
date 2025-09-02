@@ -1,4 +1,4 @@
-Shader "Custom/URPUnlitTest"
+Shader "Custom/UnlitBasic"
 {
     Properties {
         _BaseMap("Base Map", 2D) = "white" {}
@@ -15,7 +15,7 @@ Shader "Custom/URPUnlitTest"
             #pragma fragment frag
             #pragma target 3.0
             // Include extracted HLSL for IntelliSense and reuse
-            #include "URPUnlitTest.hlsl"
+            #include "UnlitBasic.hlsl"
             ENDHLSL
         }
     }

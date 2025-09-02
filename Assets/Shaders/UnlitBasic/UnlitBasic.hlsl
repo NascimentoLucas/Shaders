@@ -31,5 +31,6 @@ Varyings vert(Attributes v)
 
 half4 frag(Varyings i) : SV_Target
 {
-    return _BaseColor;
+    half4 baseCol = SAMPLE_TEXTURE2D(_BaseMap, sampler_BaseMap, i.uv);
+    return baseCol * _BaseColor;
 }
