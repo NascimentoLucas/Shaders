@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LitLamber
-  m_Shader: {fileID: 4800000, guid: 09c0b40ced15621438be81a9faf864ec, type: 3}
+  m_Shader: {fileID: 4800000, guid: 6f27649626a818f4d8b508cc0d8aae2a, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
