@@ -1,0 +1,128 @@
+# ----------------------------
+# Unity generated files
+# ----------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Cache
+sysinfo.txt
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Crash Reports
+*.stacktrace
+
+# Android/iOS build artifacts
+*.apk
+*.aab
+*.obb
+*.ipa
+*.dsym
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+.idea/
+*.sln.iml
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Auto-generated JetBrains Rider plugin
+Assets/Plugins/Editor/JetBrains*
+
+# Crashlytics
+crashlytics-build.properties
+
+# Builds
+*.exe
+*.app
+*.xcodeproj
+*.apk
+*.aab
+
+# Other system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Package Manager
+Packages/packages-lock.json
+
+# Addressables
+ServerData/
+
+# TextMesh Pro auto-generated folder
+Assets/TextMesh Pro/Resources/Font Asset Creator/
+
+# Collaborate / Plastic SCM (if not using)
+.collabignore
+PlasticSCM/
+
+# Unity Cloud Build
+[Uu]nity[Cc]loud/
+
+# Cache server
+[Cc]ache/
+
+# Logs
+*.log
+
+# Local test results
+TestResults/
+
+# Coverage data
+*.coverage
+*.coveragexml
+*.cov
+
+# Build pipeline
+[Bb]in/
+obj/
+
+# Rider / Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code local history
+.history/
+.ionide/
+
+# npm / node tools if used
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python / other tools
+__pycache__/
+*.pyc
